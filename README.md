@@ -1,5 +1,7 @@
 # Steam Video Games Revenue from January - September 2024
 
+This project examines the revenue generated from selling video games by analyzing the top 1500 games on Steam based on revenue as of September 9, 2024, to identify key factors influencing the earnings.
+
 ---
 
 ## Dataset
@@ -43,7 +45,7 @@ Features:
 
 ## Business Impact
 
-Analyzing the Steam January - September 2024 revenue data provides key business insights such as identifying top-performing games, optimizing pricing strategies, understanding publisher class performance (AAA, AA, Indie), and evaluating developer or publisher success. These insights help businesses make informed decisions on investments, marketing strategies, resource allocation, and partnership opportunities, ultimately guiding how to maximize revenue and reduce risks in future game development and publishing efforts.
+Analyzing the Steam revenue data from January to September 2024 provides key business insights, including identifying top-performing games, optimizing pricing strategies, understanding publisher class performance (AAA, AA, Indie), and evaluating the success of developers and publishers. These insights help businesses make informed decisions on investments, marketing strategies, resource allocation, and partnership opportunities, ultimately guiding how to maximize revenue and reduce risks in future game development and publishing efforts.
 
 ---
 
