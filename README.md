@@ -17,6 +17,12 @@ Features:
 
 ---
 
+## Dashboard
+
+[Tableau Public](https://public.tableau.com/views/steam_revenue/SteamVideoGamesRevenuefromJanuary-September2024?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## Tools
 
 - Python
