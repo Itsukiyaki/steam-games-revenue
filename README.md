@@ -25,9 +25,11 @@ Features:
 
 ## Tools
 
-- Python
-- Jupyter Notebook
-- Tableau
+| Tools                     | Usage                                   |
+|---------------------------|-----------------------------------------|
+| Python & Jupyter Notebook | Data Cleaning & Processing              |
+| Tableau                   | Data Visualization & Dashboard Creation |
+| Kaggle                    | Data Source                             |
   
 ---
 
